@@ -1,0 +1,252 @@
+@media  ( max-width: 690px ) {
+body{
+    background: #FFFFFF;
+    color: #262626;
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: center;
+    margin: 0;
+}
+
+header{
+    padding-bottom: 20%;
+}
+
+img{
+    
+    width: 30%;
+    height: 9%;
+}
+
+
+input{
+    margin-right: 6%;
+    justify-content: center;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+
+
+.tableindex{
+    
+    justify-content: center;
+    width:100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.tableindex th{
+    
+
+    
+    color: #FFFFFF;
+    width: 1000px;
+    background: #14AA4B;
+    border-radius: 1px;
+    border-collapse: collapse;
+    padding: 5px;
+}
+ 
+.tableindex tbody {
+    
+    
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 1px;
+    border-radius: 1px;
+    border-collapse: collapse;
+  }
+.tableindex tbody:nth-child(even) {
+    background-color: hsl(115, 61%, 66%);
+    border-radius: 1px;
+    border-collapse: collapse;
+  }
+
+tfoot{
+    color: #FFFFFF;
+    width: 1000px;
+    background: hsl(115, 61%, 66%);
+    border-radius: 1px;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.modal
+ {
+    background: #14AA4B;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    width: 100vw;
+
+    display: block;
+    justify-content: center;
+
+    transition: 400ms;
+
+}
+.modal button{
+    color: #000000;
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    
+    box-sizing: border-box;
+    border-radius: 5px; 
+    font-size: 12px;
+    font-weight: bold;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.modal label{
+    margin: auto;
+    color: #FFFFFF;
+    display: block;
+}
+.modal .addScroll {
+    overflow: auto;
+}
+.modal .content {
+    margin: 15%;
+
+    color: white;
+
+}
+.modal h1 {
+    text-align: center;
+    color:#FFFFFF;
+    text-transform: uppercase;
+}
+footer {
+    display: block;
+    margin: 0;
+    
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+
+    color: #777;
+
+}
+}
+
+
+body{
+    background: #FFFFFF;
+    color: #262626;
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: center;
+    margin: 0;
+}
+
+header{
+    padding-bottom: 20%;
+}
+
+img{
+    
+    width: 30%;
+    height: 9%;
+}
+
+
+
+input{
+    margin-right: 6%;
+    justify-content: center;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+}
+
+
+
+
+.modal
+ {
+    background: #14AA4B;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    width: 100vw;
+
+    display: block;
+    justify-content: center;
+
+    transition: 400ms;
+
+}
+.modal button{
+    color: #000000;
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    
+    box-sizing: border-box;
+    border-radius: 5px; 
+    font-size: 12px;
+    font-weight: bold;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-around;
+
+}
+.modal label{
+    margin: auto;
+    color: #FFFFFF;
+    display: block;
+}
+.modal .addScroll {
+    overflow: auto;
+}
+.modal .content {
+    margin: 15%;
+
+    color: white;
+
+}
+.modal h1 {
+    text-align: center;
+    color:#FFFFFF;
+    text-transform: uppercase;
+}
+footer {
+    display: block;
+    margin: 0;
+    
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.2px;
+
+    color: #777;
+
+}
+
+
