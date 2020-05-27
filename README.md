@@ -14,7 +14,10 @@ Marshmallow
 SQLAlchemy
 CORS, Cors_origin
 
-Banco de Dados Postgres
-
-Para subir o servidor React : npm start
-Para subir a api flask : python app.py
+Instalando bilbiotecas necessarias:
+pip install flask/
+            flask_restful/
+            marshmallow-sqlalchemy/
+            marshmallow/
+            sqlalchemy/
+            flask_cors
