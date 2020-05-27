@@ -166,6 +166,48 @@ img{
 }
 
 
+.tableindex{
+    
+    justify-content: center;
+    width:100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.tableindex th{
+    
+
+    
+    color: #FFFFFF;
+    width: 2000px;
+    background: #14AA4B;
+    border-radius: 1px;
+    border-collapse: collapse;
+    padding: 5px;
+}
+ 
+.tableindex tbody {
+    
+    
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 1px;
+    border-radius: 1px;
+    border-collapse: collapse;
+  }
+.tableindex tbody:nth-child(even) {
+    background-color: hsl(115, 61%, 66%);
+    border-radius: 1px;
+    border-collapse: collapse;
+  }
+
+tfoot{
+    color: #FFFFFF;
+    width: 1000px;
+    background: hsl(115, 61%, 66%);
+    border-radius: 1px;
+    border-collapse: collapse;
+    padding: 5px;
+}
 
 input{
     margin-right: 6%;

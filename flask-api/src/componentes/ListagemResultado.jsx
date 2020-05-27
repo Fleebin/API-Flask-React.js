@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+
 import Header from './Header'
 import api from '../api'
 import { Link } from 'react-router-dom'
@@ -9,7 +10,7 @@ class Terminais extends Component {
     terminal: [],
   }
   async componentDidMount() {
-    const response = await api.get('/listagem/${match.params.id}');
+    const response = await api.get('listagem/${match.params.id}');
 
       console.log(response.data)
 
