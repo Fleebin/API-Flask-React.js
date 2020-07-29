@@ -1,4 +1,4 @@
-# Stone
+# API-Flask-React.js
 Projeto Stone Resilia
 
 Dependencias: 
