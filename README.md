@@ -1,5 +1,4 @@
 # API-Flask-React.js
-Projeto Stone Resilia
 
 Dependencias: 
 flask_restful
